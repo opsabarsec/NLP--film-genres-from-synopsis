@@ -1,7 +1,7 @@
 # NLP--film-genres-from-synopsis
 ![pellicola](film.jpg)
 ## 1. Background
-Public movies’ database such as IMDB provides genreinformation to assist searching. The tagging of movies’genres is still a manual process which involves the col-lection  of  users’  suggestions  sent  to  known  email  ad-dresses of IMDB. Movies are often registered with in-accurate  genres.   Automatic  genres  classification  of  amovie based on its synopsis not only speeds up the clas-sification process by providing a list of suggestion butthe result may potentially be more accurate than an un-trained human.
+Public movies’databases such as IMDB provide genre information to assist searching. The tagging of movies’genres is still a manual process which involves the collection of users'suggestions sent to known email addresses provided by the database. Movies are often registered with inaccurate genres. Automatic  genres  classification of a movie based on its synopsis not only speeds up the classification process by providing a list of suggestion but the result may potentially be more accurate than that of an un-trained human.
 
 ## 2. The data
 Data have been downloaded from Radix challenge Kaggle dataset
