@@ -1,5 +1,7 @@
 # NLP--film-genres-from-synopsis
-Detailed explanation available as [blog post](https://m-berta.medium.com/automatic-text-tagging-by-deep-learning-using-just-few-lines-of-code-ea14cfdf6edd)
+Detailed explanation of the code is available as [blog post](https://m-berta.medium.com/automatic-text-tagging-by-deep-learning-using-just-few-lines-of-code-ea14cfdf6edd) or in this [video](https://youtu.be/3zqIpNnpiyk)
+
+Details about the API are discussed in this [video](https://youtu.be/S1aw2fHBxls).
 
 ![pellicola](film.jpg)
 ## 1. Background
@@ -19,4 +21,4 @@ Higher accuracy than classical ML models such as Logistic Regression (50% vs. 10
 ![LSTM](LSTM.png)
 
 This model has been deployed to a [REST API](API/challenge.py) using the Python library Flask. 
-Details about the API are discussed in this [video].
+
